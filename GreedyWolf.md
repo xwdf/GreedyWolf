@@ -1,6 +1,6 @@
 {
 "geo":"RU",
 "view":"https://google.com?",
-"view2":"https://anubisancientadventures.com/cby6l0k.php?key=rmk4666x3tnv4fi3usvj&",
+"view2":"https://ourappsdomain.com/3g9jbk?",
 "appsChecker":"0"
 }
